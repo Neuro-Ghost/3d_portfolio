@@ -278,12 +278,12 @@ const publicUrls = {
   socialProfiles: {
     linkedin: {
       title: "linkedin",
-      link: "https://www.linkedin.com/in/shridharrai/",
+      link: "https://www.linkedin.com/in/ahmad-faour-3136b4239/",
       icon: linkedIn,
     },
     github: {
       title: "github",
-      link: "https://github.com/shridharrai",
+      link: "https://github.com/Neuro-Ghost",
       icon: github,
     },
   },
